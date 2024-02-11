@@ -1,5 +1,7 @@
 # INSTALL
 
+Hardware RTX 3080, 16GB GPU RAM
+
 ```
 pyenv local 3.10
 python -m venv venv
